@@ -1,7 +1,5 @@
 import React from 'react';
 
-import appSingle from '../../images/mobiles/app-single.png';
-
 const Section3 = () => (
     <div className="bg3">
         <div className="container">

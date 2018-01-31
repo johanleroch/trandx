@@ -72,6 +72,7 @@ p {
 .iphone-1 {
   object-fit: contain;
   transform: translateX(47px);
+  z-index: 1;
 }
 
 .get-started-now-btn {
